@@ -40,7 +40,7 @@ User
 - Password (string)
 
 Budget
-- `Id (int)`
+- Id (int)
 - Name (string)
 - Amount (float)
 - UserId (int)
